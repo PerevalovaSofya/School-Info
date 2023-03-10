@@ -7,3 +7,9 @@
 В part2 и part3 - процедуры, триггеры, функции по добавлению и поиску необходимой информации.
 
 ![](materials/info.png)
+
+Проект разработан совместно с:
+
+https://github.com/OlegDeLon
+
+https://github.com/Ic1k
